@@ -1,3 +1,6 @@
 merhaba
+düzeltildi
+ikinci satır
 remote masterdan gelen güncelleme
 remote masterdan ikinci güncelleme
+
